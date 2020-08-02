@@ -11,5 +11,4 @@ function checkSpam(str) {
      return false;
    }
  }
- console.log(checkSpam('innocent rabbit'));
  

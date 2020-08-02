@@ -12,4 +12,4 @@ function ucFirst(str) {
   let result = start + end;
   return result;
 }
-  console.log(ucFirst('вася'));
+
